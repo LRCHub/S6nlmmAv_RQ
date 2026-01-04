@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "恋と怪獣",
+  "base_artist": "ねぐせ。",
+  "createdAt": "2026-01-04T16:12:39.217056Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋と怪獣",
+      "artist": "ねぐせ。",
+      "has_synced": false,
+      "path": "select/pl_01_恋と怪獣_ねぐせ。.txt"
+    }
+  ]
+}
